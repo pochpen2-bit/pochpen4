@@ -1,0 +1,77 @@
+body{
+   
+}
+header{
+ background-color:rgb(7, 166, 7);
+ padding: 20px;
+}
+a.h1:link,a.link{
+    padding: 20px;
+   color: white;
+    margin: 5px;
+    text-decoration: none;
+   
+}
+a.h1:hover,a.h1:active{
+ background: rgb(47, 255, 106);
+ padding: 20px;
+ color: white;
+}
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div.newframe{
+    width:470px;
+    float: left;
+    border:1px solid;
+    padding: 5px;
+    min-height: 310px;
+    margin: 5px;
+    text-align: center;
+    border-radius: 10px;
+}
+div.newframe img{
+    padding: 5px;
+    width: 450px;
+  border-radius: 10px;
+}
+div.newframe img:hover{
+    transform: scale(1.02);
+    border: 0.1px solid red;
+}
+.h1{
+    color: rgb(0, 132, 255);
+}
+footer{
+    color: white;
+    background-color: greenyellow;
+    clear: left;
+    text-align: center;
+    padding: 15px;
+}
+
+div.newframe1{
+    margin: 5px;
+    border: 1px solid;
+    padding: 5px;
+    text-align: center;
+    width: 350px;
+    float: left;
+    min-height: 300px;
+    border-radius: 5px;
+}
+div.newframe1 img{
+    width: 310px;
+}
+div.newframe1 img:hover{
+    transform: scale(1.03);
+}
+   
+p{
+    font-family:;
+   
+}
+.title{
+    position:sticky;
+    top: 0;
+}
